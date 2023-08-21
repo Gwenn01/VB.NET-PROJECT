@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0-windows\AdvancedCalculator.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0-windows\AdvancedCalculator.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0-windows\AdvancedCalculator.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0-windows\AdvancedCalculator.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0-windows\AdvancedCalculator.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\refint\AdvancedCalculator.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\AdvancedCalculator.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0-windows\ref\AdvancedCalculator.dll

@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\bin\Debug\net6.0-windows\ArrayListImplementation.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\bin\Debug\net6.0-windows\ArrayListImplementation.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\bin\Debug\net6.0-windows\ArrayListImplementation.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\bin\Debug\net6.0-windows\ArrayListImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\bin\Debug\net6.0-windows\ArrayListImplementation.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\refint\ArrayListImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ArrayListImplementation.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\ArrayListImplementation\ArrayListImplementation\obj\Debug\net6.0-windows\ref\ArrayListImplementation.dll
